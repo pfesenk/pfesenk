@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @pfesenk
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+# Hi, I’m @pfesenk
+ I’m 
+ I’m  
+ I’m 
 # Hi there, I'm @pfesenk 👋
 
 Welcome to my GitHub profile! I'm passionate about technology and building solutions that make a difference.
